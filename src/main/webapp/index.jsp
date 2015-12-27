@@ -4,7 +4,7 @@
 
 
 <meta charset="utf-8">
-  <title>Bootstrap 3, from LayoutIt!</title>
+  <title>Bootstrap 3, from LayoutIt! Tarek</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
@@ -130,7 +130,7 @@
 
         <div class="jumbotron">
             <h1>
-                Hello from raspberry Pi!ffffffffffff
+                Hello from raspberry Pi! Tarek
             </h1>
             <p>
                 This is a Test Page
